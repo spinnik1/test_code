@@ -1,2 +1,2 @@
-# test_code
-this is my first repo
+a="hello"
+print(a)
